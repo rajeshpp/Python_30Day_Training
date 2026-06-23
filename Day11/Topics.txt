@@ -1,0 +1,7 @@
+Functions
+
+
+# Syntax:
+
+def function_name():
+    # Code

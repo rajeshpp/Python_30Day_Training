@@ -5,5 +5,3 @@ Tuples, Sets, Dictionaries
 * Tuple basics ()
 * Sets operations {}
 * Dictionary concepts {}
-
-AM I Audible?
