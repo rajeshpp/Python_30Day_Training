@@ -1,0 +1,9 @@
+Tuples, Sets, Dictionaries 
+
+### Topics 
+
+* Tuple basics ()
+* Sets operations {}
+* Dictionary concepts {}
+
+AM I Audible?
