@@ -1,0 +1,10 @@
+Topics:
+--------------------
+What is Python?
+Why Python is popular
+Installing Python
+vscode
+Running first python program
+print() function
+
+----------------------

@@ -1,0 +1,9 @@
+Topics:
+-------------
+Exception Handling
+
+try:
+except:
+finally
+
+Custom Errors

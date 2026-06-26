@@ -1,0 +1,8 @@
+Advanced Functions
+
+Items:
+---------------
+1. Default Arguments
+2. Keyword Arguments
+3. *args
+4. **kwargs

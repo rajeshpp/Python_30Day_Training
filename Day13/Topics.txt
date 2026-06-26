@@ -1,0 +1,6 @@
+Topics:
+----------
+Scope
+    Local
+    Global
+Recursion
